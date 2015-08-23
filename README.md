@@ -1,3 +1,3 @@
 # CompuStat
-Curso de Estadística Computacional
+Curso de Estadística Computacional, 
 José de Jesús Vargas Muñoz
